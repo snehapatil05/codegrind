@@ -1,0 +1,2 @@
+User(uid,uname)
+master(uid,audio,textmsg,email,summary)
